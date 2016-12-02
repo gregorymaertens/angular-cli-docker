@@ -1,3 +1,5 @@
+This fork version adds aws cli
+
 # angular-cli in a Container
 
 Although it is not really difficult, it took me quite some time to use [angular-cli](https://github.com/angular/angular-cli) on my Mac in a docker container.
